@@ -1,2 +1,2 @@
 # tbpp-static
-fucking gay as helle thing
+Client for the AfricaTeam fork of tbpp
