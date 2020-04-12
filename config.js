@@ -2,5 +2,5 @@
 
 window.tbpp_conf = {
   // the server to connect to
-  ioUrl: "ws://:8082"
+  ioUrl: "http://hbpp-server.herokuapp.com"
 }
